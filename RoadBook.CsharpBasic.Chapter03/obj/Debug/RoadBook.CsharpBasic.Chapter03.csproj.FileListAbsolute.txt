@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\bin\Debug\RoadBook.CsharpBasic.Chapter03.exe.config
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\bin\Debug\RoadBook.CsharpBasic.Chapter03.exe
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\bin\Debug\RoadBook.CsharpBasic.Chapter03.pdb
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\obj\Debug\RoadBook.CsharpBasic.Chapter03.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\obj\Debug\RoadBook.CsharpBasic.Chapter03.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\obj\Debug\RoadBook.CsharpBasic.Chapter03.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\obj\Debug\RoadBook.CsharpBasic.Chapter03.exe
+C:\Users\user\Desktop\MyFirstApp\RoadBook.CsharpBasic.Chapter03\obj\Debug\RoadBook.CsharpBasic.Chapter03.pdb
